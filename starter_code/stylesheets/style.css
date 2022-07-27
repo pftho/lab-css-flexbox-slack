@@ -30,6 +30,7 @@ header {
   height: 30px;
   top: 0;
   border-bottom: 1px solid var(--background-grey);
+  width: 100vw;
 }
 
 #hamburger {
